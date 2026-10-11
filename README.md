@@ -18,20 +18,12 @@
 
 ## 包含的美化项目
 
-###### ** 开始菜单美化 Windows 11 Start Menu Styler Softglass #柔雾黑丝**
-
-###### ** 任务栏美化 Windows 11 Taskbar Styler Softglass #柔雾黑丝**
-
-###### ** 任务栏通知中心美化 Windows 11 Notification Center Styler Softglass #柔雾黑丝**
-
-###### ** 设置美化 Windows 11 Settings Styler Softglass #柔雾黑丝**
-
-###### ** 文件资源管理器美化 Windows 11 File Explorer Styler Softglass #柔雾黑丝+液态玻璃**
-
-###### ** 右键菜单美化 Translucent Flyouts Controller Softglass #柔雾黑丝**
-
-
-
+- **[开始菜单美化 Windows 11 Start Menu Styler Softglass #柔雾黑丝](#preview-start-menu)**
+- **[任务栏美化 Windows 11 Taskbar Styler Softglass #柔雾黑丝](#preview-taskbar)**
+- **[任务栏通知中心美化 Windows 11 Notification Center Styler Softglass #柔雾黑丝](#preview-notification-center)**
+- **[设置美化 Windows 11 Settings Styler Softglass #柔雾黑丝](#preview-settings)**
+- **[文件资源管理器美化 Windows 11 File Explorer Styler Softglass #柔雾黑丝+液态玻璃](#preview-file-explorer)**
+- **[右键菜单美化 Translucent Flyouts Controller Softglass #柔雾黑丝](#preview-context-menu)**
 ## 效果预览
 
 玻璃背景会受到壁纸及后方窗口影响。以下图片展示本套配置的实际发布效果，各工具的参数与结构差异会造成细微的观感区别。
@@ -48,6 +40,8 @@
 
 ![整套搭配效果 · 深色模式 黑丝](%E8%AF%A6%E6%83%85%E9%A1%B5/%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%20%23%E9%BB%91%E4%B8%9D.png)
 
+<a id="preview-start-menu"></a>
+
 ### 开始菜单
 
 为 Windows 11 开始菜单提供半透明柔雾背景，统一固定应用文件夹、展开面板、搜索卡片和弹出菜单的观感。适合开始菜单叠加在其他窗口上的使用方式。
@@ -62,6 +56,8 @@
 
 
 
+<a id="preview-taskbar"></a>
+
 ### 任务栏
 
 保留现有任务栏的透明玻璃外观与布局，为浅色、深色模式分别设置背景着色。深色沿用原有效果，浅色仅略微提亮，减少白色覆盖。
@@ -75,6 +71,8 @@
 ![任务栏 柔雾黑丝 · 深色模式 黑丝](%E8%AF%A6%E6%83%85%E9%A1%B5/%E4%BB%BB%E5%8A%A1%E6%A0%8F/%E4%BB%BB%E5%8A%A1%E6%A0%8F%20%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%20%23%E9%BB%91%E4%B8%9D.png)
 
 
+
+<a id="preview-notification-center"></a>
 
 ### 任务栏通知中心
 
@@ -94,6 +92,8 @@
 
 
 
+<a id="preview-settings"></a>
+
 ### 设置
 
 让 Windows 11「设置」窗口与柔雾黑丝资源管理器保持协调。统一主背景、导航图标、内容卡片、按钮和下拉列表，保留清晰的操作反馈。
@@ -108,6 +108,8 @@
 
 
 
+<a id="preview-file-explorer"></a>
+
 ### 文件资源管理器
 
 为 Windows 11 文件资源管理器提供浅色、深色自适应的全窗口柔雾玻璃背景，配合圆角标签页、地址栏胶囊和搜索框，作为本系列其他组件的配色参考。
@@ -121,6 +123,8 @@
 ![文件资源管理器 柔雾黑丝+液态玻璃 · 深色模式 黑丝](%E8%AF%A6%E6%83%85%E9%A1%B5/%E6%96%87%E4%BB%B6%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E5%99%A8/%E6%96%87%E4%BB%B6%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E5%99%A8%20%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%20%23%E9%BB%91%E4%B8%9D.png)
 
 
+
+<a id="preview-context-menu"></a>
 
 ### 右键菜单
 
