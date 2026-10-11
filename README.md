@@ -1,8 +1,6 @@
 # 柔雾黑丝 · Windows 11 美化风格包
 
-[下载最新版「@WaterSprites 柔雾黑丝」完整合集](https://github.com/WaterSprites/Windhawk-Mod-Soft-Mist-Black-Sheer-Tights/releases/latest)
-
-让开始菜单、任务栏、通知中心、设置、右键菜单、文件资源管理器拥有统一的柔雾黑丝玻璃风格。浅色为柔雾，深色为黑丝；
+让开始菜单、任务栏、通知中心、设置、右键菜单、文件资源管理器拥有一致的柔雾黑丝玻璃风格。浅色为柔雾，深色为黑丝；
 
 此美化风格包，统一各款美化插件的默认数值标准，将原本需要分别配置、反复调试的独立插件，整合为一套风格协调、配置完整的美化方案，减少逐项调整的繁琐，让整套桌面更容易搭配和使用。并修复了前作者美化细节不足的问题。
 
@@ -20,17 +18,17 @@
 
 ## 包含的美化项目
 
-###### **- 开始菜单美化 - Windows 11 Start Menu Styler Softglass 柔雾黑丝**
+###### **- 开始菜单美化 Windows 11 Start Menu Styler Softglass #柔雾黑丝**
 
-###### **- 任务栏美化 - Windows 11 Taskbar Styler Softglass 柔雾黑丝**
+###### **- 任务栏美化 Windows 11 Taskbar Styler Softglass #柔雾黑丝**
 
-###### **- 任务栏通知中心美化 - Windows 11 Notification Center Styler Softglass 柔雾黑丝**
+###### **- 任务栏通知中心美化 Windows 11 Notification Center Styler Softglass #柔雾黑丝**
 
-###### **- 设置美化 - Windows 11 Settings Styler Softglass 柔雾黑丝**
+###### **- 设置美化 Windows 11 Settings Styler Softglass #柔雾黑丝**
 
-###### **- 文件资源管理器美化 - Windows 11 File Explorer Styler Softglass 柔雾黑丝+液态玻璃**
+###### **- 文件资源管理器美化 Windows 11 File Explorer Styler Softglass #柔雾黑丝+液态玻璃**
 
-###### **- 右键菜单美化 - Translucent Flyouts Controller Softglass 柔雾黑丝**
+###### **- 右键菜单美化 Translucent Flyouts Controller Softglass #柔雾黑丝**
 
 
 
@@ -42,103 +40,99 @@
 
 ### 整套搭配效果
 
-**浅色模式 柔雾**
+**浅色模式**
 
-![整套搭配效果 · 浅色模式 柔雾](https://raw.githubusercontent.com/WaterSprites/Windhawk-Mod-Soft-Mist-Black-Sheer-Tights/22b9bfeb6e85c4771d40b6502e360abe63472910/%E8%AF%A6%E6%83%85%E9%A1%B5/%E6%95%B4%E5%A5%97%E6%95%88%E6%9E%9C/%E6%B5%85%E8%89%B2%E6%A8%A1%E5%BC%8F%20%E6%9F%94%E9%9B%BE.png)
+![整套搭配效果 · 浅色模式 柔雾](%E8%AF%A6%E6%83%85%E9%A1%B5/%E6%B5%85%E8%89%B2%E6%A8%A1%E5%BC%8F%20%23%E6%9F%94%E9%9B%BE.png)
 
-**深色模式 黑丝**
+**深色模式**
 
-![整套搭配效果 · 深色模式 黑丝](https://raw.githubusercontent.com/WaterSprites/Windhawk-Mod-Soft-Mist-Black-Sheer-Tights/22b9bfeb6e85c4771d40b6502e360abe63472910/%E8%AF%A6%E6%83%85%E9%A1%B5/%E6%95%B4%E5%A5%97%E6%95%88%E6%9E%9C/%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%20%E9%BB%91%E4%B8%9D.png)
+![整套搭配效果 · 深色模式 黑丝](%E8%AF%A6%E6%83%85%E9%A1%B5/%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%20%23%E9%BB%91%E4%B8%9D.png)
 
-### 开始菜单 柔雾黑丝
+### 开始菜单
 
 为 Windows 11 开始菜单提供半透明柔雾背景，统一固定应用文件夹、展开面板、搜索卡片和弹出菜单的观感。适合开始菜单叠加在其他窗口上的使用方式。
 
-**浅色模式 柔雾**
+**浅色模式**
 
-![开始菜单 柔雾黑丝 · 浅色模式 柔雾](%E8%AF%A6%E6%83%85%E9%A1%B5/%E5%BC%80%E5%A7%8B%E8%8F%9C%E5%8D%95/%E6%B5%85%E8%89%B2%E6%A8%A1%E5%BC%8F%20%E6%9F%94%E9%9B%BE.png)
+![开始菜单 柔雾黑丝 · 浅色模式 柔雾](%E8%AF%A6%E6%83%85%E9%A1%B5/%E5%BC%80%E5%A7%8B%E8%8F%9C%E5%8D%95/%E5%BC%80%E5%A7%8B%E8%8F%9C%E5%8D%95%20%E6%B5%85%E8%89%B2%E6%A8%A1%E5%BC%8F%20%23%E6%9F%94%E9%9B%BE.png)
 
-**深色模式 黑丝**
+**深色模式**
 
-![开始菜单 柔雾黑丝 · 深色模式 黑丝](%E8%AF%A6%E6%83%85%E9%A1%B5/%E5%BC%80%E5%A7%8B%E8%8F%9C%E5%8D%95/%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%20%E9%BB%91%E4%B8%9D.png)
+![开始菜单 柔雾黑丝 · 深色模式 黑丝](%E8%AF%A6%E6%83%85%E9%A1%B5/%E5%BC%80%E5%A7%8B%E8%8F%9C%E5%8D%95/%E5%BC%80%E5%A7%8B%E8%8F%9C%E5%8D%95%20%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%20%23%E9%BB%91%E4%B8%9D.png)
 
 
 
-### 任务栏 柔雾黑丝
+### 任务栏
 
 保留现有任务栏的透明玻璃外观与布局，为浅色、深色模式分别设置背景着色。深色沿用原有效果，浅色仅略微提亮，减少白色覆盖。
 
-**浅色模式 柔雾**
+**浅色模式**
 
-![任务栏 柔雾黑丝 · 浅色模式 柔雾](%E8%AF%A6%E6%83%85%E9%A1%B5/%E4%BB%BB%E5%8A%A1%E6%A0%8F/%E6%B5%85%E8%89%B2%E6%A8%A1%E5%BC%8F%20%E6%9F%94%E9%9B%BE.png)
+![任务栏 柔雾黑丝 · 浅色模式 柔雾](%E8%AF%A6%E6%83%85%E9%A1%B5/%E4%BB%BB%E5%8A%A1%E6%A0%8F/%E4%BB%BB%E5%8A%A1%E6%A0%8F%20%E6%B5%85%E8%89%B2%E6%A8%A1%E5%BC%8F%20%23%E6%9F%94%E9%9B%BE.png)
 
-**深色模式 黑丝**
+**深色模式**
 
-![任务栏 柔雾黑丝 · 深色模式 黑丝](%E8%AF%A6%E6%83%85%E9%A1%B5/%E4%BB%BB%E5%8A%A1%E6%A0%8F/%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%20%E9%BB%91%E4%B8%9D.png)
+![任务栏 柔雾黑丝 · 深色模式 黑丝](%E8%AF%A6%E6%83%85%E9%A1%B5/%E4%BB%BB%E5%8A%A1%E6%A0%8F/%E4%BB%BB%E5%8A%A1%E6%A0%8F%20%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%20%23%E9%BB%91%E4%B8%9D.png)
 
 
 
-### 任务栏通知中心 柔雾黑丝
+### 任务栏通知中心
 
 为 Windows 11 通知中心、日历和快速设置提供柔雾黑丝玻璃风格。统一面板背景，并保留当前主题色以及按钮、开关和日期的操作反馈。
 
-**浅色模式 柔雾 通知中心**
+**浅色模式**
 
-![任务栏通知中心 柔雾黑丝 · 浅色模式 柔雾 通知中心](%E8%AF%A6%E6%83%85%E9%A1%B5/%E4%BB%BB%E5%8A%A1%E6%A0%8F%E9%80%9A%E7%9F%A5%E4%B8%AD%E5%BF%83/%E6%B5%85%E8%89%B2%E6%A8%A1%E5%BC%8F%20%E6%9F%94%E9%9B%BE%20%E9%80%9A%E7%9F%A5%E4%B8%AD%E5%BF%83.png)
+![任务栏通知中心 柔雾黑丝 · 浅色模式 柔雾 通知中心](%E8%AF%A6%E6%83%85%E9%A1%B5/%E4%BB%BB%E5%8A%A1%E6%A0%8F%E9%80%9A%E7%9F%A5%E4%B8%AD%E5%BF%83/%E4%BB%BB%E5%8A%A1%E6%A0%8F%E9%80%9A%E7%9F%A5%E4%B8%AD%E5%BF%83%20%E6%B5%85%E8%89%B2%E6%A8%A1%E5%BC%8F%20%23%E6%9F%94%E9%9B%BE.png)
 
-**浅色模式 柔雾 音量**
+![任务栏通知中心 柔雾黑丝 · 浅色模式 柔雾 音量](%E8%AF%A6%E6%83%85%E9%A1%B5/%E4%BB%BB%E5%8A%A1%E6%A0%8F%E9%80%9A%E7%9F%A5%E4%B8%AD%E5%BF%83/%E4%BB%BB%E5%8A%A1%E6%A0%8F%E9%9F%B3%E9%87%8F%20%E6%B5%85%E8%89%B2%E6%A8%A1%E5%BC%8F%20%23%E6%9F%94%E9%9B%BE.png)
 
-![任务栏通知中心 柔雾黑丝 · 浅色模式 柔雾 音量](%E8%AF%A6%E6%83%85%E9%A1%B5/%E4%BB%BB%E5%8A%A1%E6%A0%8F%E9%80%9A%E7%9F%A5%E4%B8%AD%E5%BF%83/%E6%B5%85%E8%89%B2%E6%A8%A1%E5%BC%8F%20%E6%9F%94%E9%9B%BE%20%E9%9F%B3%E9%87%8F.png)
+**深色模式**
 
-**深色模式 黑丝 通知中心**
+![任务栏通知中心 柔雾黑丝 · 深色模式 黑丝 通知中心](%E8%AF%A6%E6%83%85%E9%A1%B5/%E4%BB%BB%E5%8A%A1%E6%A0%8F%E9%80%9A%E7%9F%A5%E4%B8%AD%E5%BF%83/%E4%BB%BB%E5%8A%A1%E6%A0%8F%E9%80%9A%E7%9F%A5%E4%B8%AD%E5%BF%83%20%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%20%23%E9%BB%91%E4%B8%9D.png)
 
-![任务栏通知中心 柔雾黑丝 · 深色模式 黑丝 通知中心](%E8%AF%A6%E6%83%85%E9%A1%B5/%E4%BB%BB%E5%8A%A1%E6%A0%8F%E9%80%9A%E7%9F%A5%E4%B8%AD%E5%BF%83/%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%20%E9%BB%91%E4%B8%9D%20%E9%80%9A%E7%9F%A5%E4%B8%AD%E5%BF%83.png)
-
-**深色模式 黑丝 音量**
-
-![任务栏通知中心 柔雾黑丝 · 深色模式 黑丝 音量](%E8%AF%A6%E6%83%85%E9%A1%B5/%E4%BB%BB%E5%8A%A1%E6%A0%8F%E9%80%9A%E7%9F%A5%E4%B8%AD%E5%BF%83/%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%20%E9%BB%91%E4%B8%9D%20%E9%9F%B3%E9%87%8F.png)
+![任务栏通知中心 柔雾黑丝 · 深色模式 黑丝 音量](%E8%AF%A6%E6%83%85%E9%A1%B5/%E4%BB%BB%E5%8A%A1%E6%A0%8F%E9%80%9A%E7%9F%A5%E4%B8%AD%E5%BF%83/%E4%BB%BB%E5%8A%A1%E6%A0%8F%E9%9F%B3%E9%87%8F%20%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%20%23%E9%BB%91%E4%B8%9D.png)
 
 
 
-### 设置 柔雾黑丝
+### 设置
 
 让 Windows 11「设置」窗口与柔雾黑丝资源管理器保持协调。统一主背景、导航图标、内容卡片、按钮和下拉列表，保留清晰的操作反馈。
 
-**浅色模式 柔雾**
+**浅色模式**
 
-![设置 柔雾黑丝 · 浅色模式 柔雾](%E8%AF%A6%E6%83%85%E9%A1%B5/%E8%AE%BE%E7%BD%AE/%E6%B5%85%E8%89%B2%E6%A8%A1%E5%BC%8F%20%E6%9F%94%E9%9B%BE.png)
+![设置 柔雾黑丝 · 浅色模式 柔雾](%E8%AF%A6%E6%83%85%E9%A1%B5/%E8%AE%BE%E7%BD%AE/%E8%AE%BE%E7%BD%AE%20%E6%B5%85%E8%89%B2%E6%A8%A1%E5%BC%8F%20%23%E6%9F%94%E9%9B%BE.png)
 
-**深色模式 黑丝**
+**深色模式**
 
-![设置 柔雾黑丝 · 深色模式 黑丝](%E8%AF%A6%E6%83%85%E9%A1%B5/%E8%AE%BE%E7%BD%AE/%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%20%E9%BB%91%E4%B8%9D.png)
+![设置 柔雾黑丝 · 深色模式 黑丝](%E8%AF%A6%E6%83%85%E9%A1%B5/%E8%AE%BE%E7%BD%AE/%E8%AE%BE%E7%BD%AE%20%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%20%23%E9%BB%91%E4%B8%9D.png)
 
 
 
-### 文件资源管理器 柔雾黑丝+液态玻璃
+### 文件资源管理器
 
 为 Windows 11 文件资源管理器提供浅色、深色自适应的全窗口柔雾玻璃背景，配合圆角标签页、地址栏胶囊和搜索框，作为本系列其他组件的配色参考。
 
-**浅色模式 柔雾**
+**浅色模式**
 
-![文件资源管理器 柔雾黑丝+液态玻璃 · 浅色模式 柔雾](%E8%AF%A6%E6%83%85%E9%A1%B5/%E6%96%87%E4%BB%B6%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E5%99%A8/%E6%B5%85%E8%89%B2%E6%A8%A1%E5%BC%8F%20%E6%9F%94%E9%9B%BE.png)
+![文件资源管理器 柔雾黑丝+液态玻璃 · 浅色模式 柔雾](%E8%AF%A6%E6%83%85%E9%A1%B5/%E6%96%87%E4%BB%B6%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E5%99%A8/%E6%96%87%E4%BB%B6%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E5%99%A8%20%E6%B5%85%E8%89%B2%E6%A8%A1%E5%BC%8F%20%23%E6%9F%94%E9%9B%BE.png)
 
-**深色模式 黑丝**
+**深色模式**
 
-![文件资源管理器 柔雾黑丝+液态玻璃 · 深色模式 黑丝](%E8%AF%A6%E6%83%85%E9%A1%B5/%E6%96%87%E4%BB%B6%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E5%99%A8/%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%20%E9%BB%91%E4%B8%9D.png)
+![文件资源管理器 柔雾黑丝+液态玻璃 · 深色模式 黑丝](%E8%AF%A6%E6%83%85%E9%A1%B5/%E6%96%87%E4%BB%B6%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E5%99%A8/%E6%96%87%E4%BB%B6%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E5%99%A8%20%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%20%23%E9%BB%91%E4%B8%9D.png)
 
 
 
-### 右键菜单 柔雾黑丝
+### 右键菜单
 
 为 TranslucentFlyouts 提供柔雾黑丝系列的本地控制配置。重点统一深色右键菜单与资源管理器的背景着色，浅色继续沿用原有效果。
 
-**浅色模式 柔雾**
+**浅色模式**
 
-![右键菜单 柔雾黑丝 · 浅色模式 柔雾](%E8%AF%A6%E6%83%85%E9%A1%B5/%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95/%E6%B5%85%E8%89%B2%E6%A8%A1%E5%BC%8F%20%E6%9F%94%E9%9B%BE.png)
+![右键菜单 柔雾黑丝 · 浅色模式 柔雾](%E8%AF%A6%E6%83%85%E9%A1%B5/%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95/%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%20%E6%B5%85%E8%89%B2%E6%A8%A1%E5%BC%8F%20%23%E6%9F%94%E9%9B%BE.png)
 
-**深色模式 黑丝**
+**深色模式**
 
-![右键菜单 柔雾黑丝 · 深色模式 黑丝](%E8%AF%A6%E6%83%85%E9%A1%B5/%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95/%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%20%E9%BB%91%E4%B8%9D.png)
+![右键菜单 柔雾黑丝 · 深色模式 黑丝](%E8%AF%A6%E6%83%85%E9%A1%B5/%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95/%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%20%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%20%23%E9%BB%91%E4%B8%9D.png)
 
 
 
@@ -150,7 +144,7 @@
 
 各工具文件夹内都有一份简短的 `说明书.txt`，包含本版调整、安装更新与必要注意事项。
 
-右键菜单额外依赖 TranslucentFlyouts 本体。已经一并附带在风格包中。
+右键菜单美化额外依赖 TranslucentFlyouts 本体。已经一并附带在风格包中。
 
 
 
@@ -240,6 +234,7 @@
 |右键菜单|沿用原有浅色效果|`#40606060`|使用 TranslucentFlyouts 亚克力效果|
 
 
+
 ### 控件与交互配色
 
 |区域|普通状态|悬停 / 选中 / 按下|
@@ -298,25 +293,38 @@
 
 ## 推荐搭配
 
-柔雾黑丝风格包主要统一系统界面的玻璃外观。搭配以下 Windhawk Mod，可以进一步调整任务栏布局、动画和日常操作，让整套桌面的观感与使用体验更加协调。
+柔雾黑丝风格包主要统一系统界面的玻璃外观。搭配以下软件与 Windhawk Mod，可以进一步调整任务栏布局、动画和日常操作，让整套桌面的观感与使用体验更加协调。
 
 这些都是可选搭配，按自己的使用习惯选择即可，无需全部安装。
 
 
 
-* ###### **任务栏 Dock 悬停动画 - Taskbar Dock Animation**
-* ###### **任务栏高度与图标大小 - Taskbar height and icon size**
-* ###### **任务栏托盘图标间距调整 - Taskbar tray icon spacing and grid**
-* ###### **任务栏托盘系统图标隐藏 - Taskbar tray system icon tweaks**
-* ###### **任务栏应用独立音量调节 - Taskbar Volume Control Per-App**
-* ###### **隐藏窗口边框 - Invisible Window Borders**
-* ###### **移除焦点虚线框 - No Focus Rectangle**
-* ###### **替换老式浏览文件夹弹窗 - Modernize Folder Picker Dialog**
-* ###### **优化文件大小显示 - Better file sizes in Explorer details**
+### GitHub：
+
+- **桌面小组件工具 uWidgets**
+- **任务栏播放器 WaterSprite TaskbarMediaBar**
+
+### Steam：
+
+- **苹果菜单 MyDockFinder**
+- **动态壁纸 Wallpaper Engine**
+
+### Windhawk：
+
+- **任务栏 Dock 悬停动画 Taskbar Dock Animation**
+- **任务栏高度与图标大小 Taskbar height and icon size**
+- **任务栏托盘图标间距调整 Taskbar tray icon spacing and grid**
+- **任务栏托盘系统图标隐藏 Taskbar tray system icon tweaks**
+- **任务栏应用独立音量调节 Taskbar Volume Control Per-App**
+- **隐藏窗口边框 Invisible Window Borders**
+- **移除焦点虚线框 No Focus Rectangle**
+- **替换老式浏览文件夹弹窗 Modernize Folder Picker Dialog**
+- **优化文件大小显示 Better file sizes in Explorer details**
 
 
 
 布局类 Mod 建议逐项启用并调整，尤其是任务栏高度、图标大小和托盘间距，避免多项设置叠加后影响现有布局。实际兼容情况也会受到 Windows 版本和各 Mod 设置的影响。
+
 
 
 ## 不推荐的搭配与兼容性提醒
