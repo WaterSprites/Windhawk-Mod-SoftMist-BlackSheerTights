@@ -44,11 +44,11 @@
 
 **浅色模式 柔雾**
 
-![整套搭配效果 · 浅色模式 柔雾](%E8%AF%A6%E6%83%85%E9%A1%B5/%E6%95%B4%E5%A5%97%E6%95%88%E6%9E%9C/%E6%B5%85%E8%89%B2%E6%A8%A1%E5%BC%8F%20%E6%9F%94%E9%9B%BE.png)
+![整套搭配效果 · 浅色模式 柔雾](https://raw.githubusercontent.com/WaterSprites/Windhawk-Mod-Soft-Mist-Black-Sheer-Tights/22b9bfeb6e85c4771d40b6502e360abe63472910/%E8%AF%A6%E6%83%85%E9%A1%B5/%E6%95%B4%E5%A5%97%E6%95%88%E6%9E%9C/%E6%B5%85%E8%89%B2%E6%A8%A1%E5%BC%8F%20%E6%9F%94%E9%9B%BE.png)
 
 **深色模式 黑丝**
 
-![整套搭配效果 · 深色模式 黑丝](%E8%AF%A6%E6%83%85%E9%A1%B5/%E6%95%B4%E5%A5%97%E6%95%88%E6%9E%9C/%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%20%E9%BB%91%E4%B8%9D.png)
+![整套搭配效果 · 深色模式 黑丝](https://raw.githubusercontent.com/WaterSprites/Windhawk-Mod-Soft-Mist-Black-Sheer-Tights/22b9bfeb6e85c4771d40b6502e360abe63472910/%E8%AF%A6%E6%83%85%E9%A1%B5/%E6%95%B4%E5%A5%97%E6%95%88%E6%9E%9C/%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F%20%E9%BB%91%E4%B8%9D.png)
 
 ### 开始菜单 柔雾黑丝
 
