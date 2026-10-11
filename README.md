@@ -18,17 +18,17 @@
 
 ## 包含的美化项目
 
-###### **- 开始菜单美化 Windows 11 Start Menu Styler Softglass #柔雾黑丝**
+###### ** 开始菜单美化 Windows 11 Start Menu Styler Softglass #柔雾黑丝**
 
-###### **- 任务栏美化 Windows 11 Taskbar Styler Softglass #柔雾黑丝**
+###### ** 任务栏美化 Windows 11 Taskbar Styler Softglass #柔雾黑丝**
 
-###### **- 任务栏通知中心美化 Windows 11 Notification Center Styler Softglass #柔雾黑丝**
+###### ** 任务栏通知中心美化 Windows 11 Notification Center Styler Softglass #柔雾黑丝**
 
-###### **- 设置美化 Windows 11 Settings Styler Softglass #柔雾黑丝**
+###### ** 设置美化 Windows 11 Settings Styler Softglass #柔雾黑丝**
 
-###### **- 文件资源管理器美化 Windows 11 File Explorer Styler Softglass #柔雾黑丝+液态玻璃**
+###### ** 文件资源管理器美化 Windows 11 File Explorer Styler Softglass #柔雾黑丝+液态玻璃**
 
-###### **- 右键菜单美化 Translucent Flyouts Controller Softglass #柔雾黑丝**
+###### ** 右键菜单美化 Translucent Flyouts Controller Softglass #柔雾黑丝**
 
 
 
@@ -273,8 +273,8 @@
 
 1. 下载并解压本合集，在需要安装的工具文件夹中打开 `Mod` 文件夹。
 2. 停用作用于同一区域的官方原版或旧版定制 Mod，避免样式冲突。
-3. 在 Windhawk 中创建本地 Mod，将对应的 **“源代码 … .cpp”** 文件全部内容粘贴到源码编辑器，保存并编译。
-4. 将配套 **“Mod … .txt”** 文件的完整 JSON 内容导入该 Mod 的高级设置，保存并启用。
+3. 在 Windhawk 中创建本地 Mod，将对应的 **“源代码.cpp”** 文件全部内容粘贴到源码编辑器，保存并编译。
+4. 将配套 **“Mod.txt”** 文件的完整 JSON 内容导入该 Mod 的高级设置，保存并启用。
 5. 关闭并重新打开对应界面，查看效果。安装其他工具时，重复以上步骤即可。
 
 **右键菜单美化还需要安装并运行 TranslucentFlyouts 本体。** 本合集中的控制器负责应用配套设置，不能替代本体。
